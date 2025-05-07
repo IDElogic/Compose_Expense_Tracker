@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <string name="you_can_make_progress"> you can make progress on the things that are important to you</string>
+    <string name="get_started">get start</string>
+    <string name="be_organized">focused | organized | calm</string>
+    <string name="budget_tracker">Budget Tracker</string>
+    <string name="budget_quote1">Becoming rich is hard. </string>
+    <string name="empty_string" />
+    <string name="navigate_back">Navigate to the previous screen</string>
+</resources>
